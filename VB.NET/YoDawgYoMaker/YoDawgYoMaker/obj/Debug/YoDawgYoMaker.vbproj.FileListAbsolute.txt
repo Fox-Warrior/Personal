@@ -1,0 +1,12 @@
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\bin\Debug\YoDawgYoMaker.exe
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\bin\Debug\YoDawgYoMaker.pdb
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\bin\Debug\YoDawgYoMaker.xml
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.Resources.resources
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.vbproj.GenerateResource.Cache
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.exe
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.xml
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.pdb
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.Generator.resources
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.Viewer.resources
+C:\Users\Fox-Warrior\Documents\Visual Studio 2008\Projects\YoDawgYoMaker\YoDawgYoMaker\obj\Debug\YoDawgYoMaker.Loader.resources

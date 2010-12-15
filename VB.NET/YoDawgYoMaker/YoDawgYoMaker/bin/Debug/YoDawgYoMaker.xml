@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+YoDawgYoMaker
+</name>
+</assembly>
+<members>
+<member name="M:YoDawgYoMaker.RC4.RC4EnDeCrypt(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ RC4 encryption and decryption.
+ </summary>
+	<param name="plaintxt"></param>
+	<param name="password"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+	<history>
+ [jamie] 8/18/2005 Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:YoDawgYoMaker.RC4.RC4Initialize(System.String,System.Int32[]@,System.Int32[]@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ This routine called by EnDeCrypt function. Initializes the
+ sbox and the key array)
+ </summary>
+	<param name="password"></param>
+	<param name="sbox"></param>
+	<param name="key"></param>
+	<remarks>
+	</remarks>
+	<history>
+ [jamie] 8/18/2005 Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>
